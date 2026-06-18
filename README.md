@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-recuerdo-me-quema/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Tu recuerdo me quema](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-recuerdo-me-quema/) |
+| **Get License** | [Get a Licensing Quote for Tu recuerdo me quema](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-recuerdo-me-quema/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu recuerdo me quema, en la noche me llama
+> Nena, tú eres el fuego que enciende mi cama
+> De Madrid a la luna, sigo tu movimiento
+> No te saco de mi mente, es un loco tormento
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
