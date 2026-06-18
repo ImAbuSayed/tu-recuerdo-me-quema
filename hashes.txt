@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu recuerdo me quema
+
+This log tracks the cryptographic history and versioning for the song **Tu recuerdo me quema** (tu-recuerdo-me-quema).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T07:24:54.519553 | `v1` | `fec8185506345d346a88ead9e6ad658ca5fe147494cf0708fb284634768bbc67` | `9fd3426df6fb7e64e27080c4d331b046c7e66650ad57a80d14899551729599ac` | `2026-06-18_tu-recuerdo-me-quema-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
